@@ -2,7 +2,7 @@ import pandas as pd
 import sys
 import os
 
-# California Housing sample data
+
 data = {
     'longitude': [-122.23, -122.22, -122.24, -122.25, -122.25],
     'latitude': [37.88, 37.86, 37.85, 37.85, 37.85],
